@@ -14,7 +14,7 @@
                 </ul> 
                 <ul class="right">
                     <li v-if="!$store.state.email" class="nav-item">
-                        <router-link class="nav-link" to="/signin"><strong>Sign In</strong></router-link>
+                        <router-link class="nav-link" to="/signin"><strong>Sign Up</strong></router-link>
                     </li>
                     <li v-if="!$store.state.email" class="nav-item">
                         <router-link class="nav-link" to="/login"><strong>Log In</strong></router-link>
