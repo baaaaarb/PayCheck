@@ -35,5 +35,5 @@ html, css, javascript, vue js, firebase
 
 # ZEIT.CO
 ```
-https://paycheck-nrchxh2aw.now.sh/
+https://paycheck-lm37a0cud.now.sh/
 ```
