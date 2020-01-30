@@ -24,7 +24,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Opis aplikacije: 
 ```
-PayCheck omogućuje studentima unosa evidencije kada su radili i na temelju tih dana unose koliko su sati radili prije i poslje 22h. S obzirom da se studenti plaćaju 50% više na satnicu nedjeljom i noćnim radom, aplikacija sama izračuna koliko je student zaradio.
+PayCheck omogućuje studentima unos evidencije kada su radili i na temelju tih dana unose koliko su sati radili prije i poslje 22h. 
+S obzirom da se studenti plaćaju 50% više na satnicu nedjeljom i noćnim radom, aplikacija sama izračuna koliko je student zaradio.
 ```
 
 # Korištene tehnologije:
