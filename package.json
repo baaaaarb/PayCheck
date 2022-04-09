@@ -10,7 +10,7 @@
     "core-js": "^3.4.4",
     "date-fns": "^2.9.0",
     "firebase": "^7.7.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "sweetalert2": "^9.7.1",
     "vue": "^2.6.10",
     "vue-moment": "^4.1.0",
